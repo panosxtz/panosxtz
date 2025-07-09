@@ -52,10 +52,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 💬 Quote
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
->
 <h1 align="center">Panos Paris Chatzopoulos 👨‍💻</h1>
 <p align="center">
   <b>Computer Science & Engineering Student · Backend Developer · Systems Thinker</b>
