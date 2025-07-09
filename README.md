@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ---
 ### 💼 Profile Summary
 
-**Backend Developer | Software Engineer**  |
-**Java • Spring Boot • PostgreSQL • Docker**|  
+**Backend Developer | Software Engineer**  | 
+**Java • Spring Boot • PostgreSQL • Docker** |   
 **Open to Remote Opportunities**
 
 📍 Ioannina, Greece • 26 y.o. • Computer Science & Engineering student
