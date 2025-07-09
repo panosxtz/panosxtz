@@ -34,9 +34,6 @@ I’m particularly interested in **Software Engineering**, with a strong focus o
 I enjoy solving complex problems, designing clean architectures, and learning tools that improve productivity and code quality.
 
 📬 You can reach me at **panospxtz@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/panosxtz)
----
-
-https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
