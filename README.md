@@ -1,8 +1,6 @@
 <h1 align="center">Panos Paris Chatzopoulos</h1>
-<h3 align="center">Computer Science and Engineering · University of Ioannina</h3>
-<h1 align="center">Panos Paris Chatzopoulos</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Backend+Developer;Clean+Code+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=0DADF7&center=true&vCenter=true&width=500&lines=Computer+Science+and+Engineering+·+University+of+Ioannina" alt="typing" />
 </p>
 <br>
 
