@@ -129,6 +129,8 @@ Bonus: I’ve explored functional (Haskell), logic (Prolog), and assembly progra
 
 ---
 
+---
+
 ### 📬 Get in touch
 
 - Email: [panospxtz@gmail.com](mailto:panospxtz@gmail.com)  
