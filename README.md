@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 **Java • Spring Boot • PostgreSQL • Docker**  
 **Open to Remote Opportunities**
 
-📍 Ioannina, Greece • 23 y.o. • Computer Science & Engineering student
+📍 Ioannina, Greece • 26 y.o. • Computer Science & Engineering student
 
 ---
 
