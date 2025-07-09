@@ -59,9 +59,7 @@ I work best when I’m deep in code, solving problems, debugging tricky behavior
 🧪 Testing, Debugging & Refactoring  
 🎯 Learning fast, thinking critically, building responsibly
 
-Languages I use most: `Java`, `C`, `Python`, `SQL`, `JavaScript`
-
-Bonus: I’ve explored functional (Haskell), logic (Prolog), and assembly programming (RISC-V) through academic projects.
+Additionally I’ve explored functional (Haskell), logic (Prolog), and assembly programming (RISC-V) through academic projects.
 
 ---
 
