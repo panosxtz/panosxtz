@@ -86,7 +86,7 @@ Additionally I’ve explored functional (Haskell), logic (Prolog), and assembly 
 
 
 </p>
-
+<!--
 ---
 
 ### 📈 GitHub Stats
@@ -95,7 +95,7 @@ Additionally I’ve explored functional (Haskell), logic (Prolog), and assembly 
   <img src="https://github-readme-stats.vercel.app/api?username=panosxtz&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=panosxtz&theme=tokyonight" alt="GitHub Streak"/>
 </p>
-
+-->
 ---
 ### 📫 Contact
 
