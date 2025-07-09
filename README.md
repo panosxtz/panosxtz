@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi, I'm Panos 👨‍💻</h1>
-<p align="center">
+<h2 align="center">
   Computer Science and Engineering student at the University of Ioannina
-</p>
+</h2>
 
 ---
 
