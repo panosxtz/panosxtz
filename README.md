@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi, I'm Panos 👨‍💻</h1><br>
-<br>
 <h3 align="center">Computer Science & Engineering Student · University of Ioannina</h3><br>
 
 <br>
