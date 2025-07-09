@@ -121,9 +121,18 @@ Bonus: I’ve explored functional (Haskell), logic (Prolog), and assembly progra
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=panosxtz&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=panosxtz&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=panosxtz&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=panosxtz&theme=tokyonight" alt="GitHub Streak"/>
 </p>
+
+---
+
+<h1 align="center">Panos Paris Chatzopoulos 👨‍💻</h1>
+<p align="center">
+  <b>Computer Science & Engineering Student · Backend Developer · Systems Thinker</b>
+</p>
+
+---
 ### 📬 Get in touch
 
 - Email: [panospxtz@gmail.com](mailto:panospxtz@gmail.com)  
