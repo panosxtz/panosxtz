@@ -5,7 +5,7 @@
 
 ---
 
-Profile
+  Profile
 
 Backend developer focused on system-level programming and software architecture.  
 Currently completing my studies in Computer Science and Engineering.  
