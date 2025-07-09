@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi, I'm Panos 👨‍💻</h1>
 <p align="center">
-  Computer Engineering student | Backend Developer | Open to Collaboration
+  Computer Science and Engineering student at the University of Ioannina
 </p>
 
 ---
