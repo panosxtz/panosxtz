@@ -41,9 +41,9 @@ Technologies
 
 Contact
 
-panospxtz@gmail.com  
-github.com/panosxtz  
-linkedin.com/in/panosxtz
+[panospxtz@gmail.com](mailto:panospxtz@gmail.com)  
+[github.com/panosxtz](https://github.com/panosxtz)  
+[linkedin.com/in/panosxtz](https://www.linkedin.com/in/panosxtz)
 
 
 ---
