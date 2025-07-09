@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Panos 👨‍💻</h1>
 <h3 align="center">Computer Science & Engineering Student · University of Ioannina</h3><br>
 
-<br>
+</br>
 ---
 ### 💼 Profile Summary
 
