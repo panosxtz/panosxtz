@@ -40,8 +40,8 @@ Contact
 
 <p>
   <a href="mailto:panospxtz@gmail.com">Email</a><br>
-  <a href="https://github.com/panosxtz">GitHub</a><br>
-  <a href="https://www.linkedin.com/in/panosxtz">LinkedIn</a>
+  <a href="https://github.com/panosxtz" target="_blank">GitHub</a><br>
+  <a href="https://www.linkedin.com/in/panosxtz" target="_blank">LinkedIn</a>
 </p>
 
 ---
