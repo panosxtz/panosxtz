@@ -1,7 +1,3 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=panosxtz&label=Profile+Views&color=blue" alt="Profile views"/>
-</p>
-
 <!--
 **panosxtz/panosxtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
