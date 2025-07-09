@@ -39,9 +39,9 @@ Technologies
 Contact
 
 <p>
-  <a href="mailto:panospxtz@gmail.com">Email</a><br>
-  <a href="https://github.com/panosxtz" target="_blank">GitHub</a><br>
-  <a href="https://www.linkedin.com/in/panosxtz" target="_blank">LinkedIn</a>
+  <a href="mailto:panospxtz@gmail.com" style="text-decoration: none;">Email</a><br>
+  <a href="https://github.com/panosxtz" style="text-decoration: none;">GitHub</a><br>
+  <a href="https://www.linkedin.com/in/panosxtz" style="text-decoration: none;">LinkedIn</a>
 </p>
 
 ---
