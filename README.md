@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi, I'm Panos 👨‍💻</h1>
 <h3 align="center">Computer Science & Engineering Student · University of Ioannina</h3>
----
-### 💼 Profile Summary
 
+<br>
+
+---
+
+### 💼 Profile Summary
 **Backend Developer | Software Engineer**  | 
 **Java • Spring Boot • PostgreSQL • Docker** |   
 **Open to Remote Opportunities**
