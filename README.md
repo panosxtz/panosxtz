@@ -38,10 +38,11 @@ Technologies
 
 Contact
 
-[panospxtz@gmail.com](mailto:panospxtz@gmail.com)  
-[github.com/panosxtz](https://github.com/panosxtz)  
-[linkedin.com/in/panosxtz](https://www.linkedin.com/in/panosxtz)
-
+<p>
+  <a href="mailto:panospxtz@gmail.com">Email</a><br>
+  <a href="https://github.com/panosxtz">GitHub</a><br>
+  <a href="https://www.linkedin.com/in/panosxtz">LinkedIn</a>
+</p>
 
 ---
 
