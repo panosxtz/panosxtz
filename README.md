@@ -96,6 +96,30 @@ Bonus: I’ve explored functional (Haskell), logic (Prolog), and assembly progra
 
 ---
 
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white" alt="Haskell"/>
+  <img src="https://img.shields.io/badge/Prolog-E61B23?style=flat&logo=gnubash&logoColor=white" alt="Prolog"/>
+  <img src="https://img.shields.io/badge/VHDL-000000?style=flat&logo=verilog&logoColor=white" alt="VHDL"/>
+
+  <!-- Frameworks & Tools -->
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white" alt="Godot"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/Neovim
+
 ### 📈 GitHub Stats
 
 <p align="center">
