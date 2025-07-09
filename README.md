@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 ### 🧠 About Me
 
-- I’m currently studying **Computer Science and Engineering** at the **University of Ioannina** in Greece.  
-- I’m particularly interested in **Software Engineering**, with a strong focus on **Backend Development** and system-level programming.
+• I’m currently studying **Computer Science and Engineering** at the **University of Ioannina** in Greece.  
+• I’m particularly interested in **Software Engineering**, with a strong focus on **Backend Development** and system-level programming.
 
-- I enjoy solving complex problems, designing clean architectures, and learning tools that improve productivity and code quality.
+• I enjoy solving complex problems, designing clean architectures, and learning tools that improve productivity and code quality.
 
 📬 You can reach me at **panospxtz@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/panosxtz)
 
@@ -60,9 +60,8 @@ Additionally I’ve explored functional (Haskell), logic (Prolog), and assembly 
 
 ---
 
-### 🛠️ Technologies & Tools
-
-
+### 🛠️ Technologies & Tools<br>
+<br>
 <p align="left">
   
   <!-- Languages -->
