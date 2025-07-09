@@ -13,19 +13,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi, I'm Panos 👨‍💻</h1>
-<h3 align="center">
-  Computer Science and Engineering student at the University of Ioannina
-</h3>
+<h3 align="center">Computer Science & Engineering Student · University of Ioannina</h3>
+
+---
+### 💼 Profile Summary
+
+**Backend Developer | Software Engineer**  
+**Java • Spring Boot • PostgreSQL • Docker**  
+**Open to Remote Opportunities**
+
+📍 Ioannina, Greece • 23 y.o. • Computer Science & Engineering student
 
 ---
 
-### 🎓 Σχετικά με εμένα
+### 🧠 About Me
 
-- 🎓 Σπουδάζω στο **Τμήμα Μηχανικών Η/Υ και Πληροφορικής** του **Πανεπιστημίου Ιωαννίνων**
-- 💻 Εστιάζω στο **Backend Development** και το **Software Engineering**
-- 🌱 Αυτή τη στιγμή μαθαίνω: Docker, Linux, System Programming
-- 📬 Επικοινωνία: `panos.chatzi@gmail.com`
+I’m currently studying **Computer Science and Engineering** at the **University of Ioannina** in Greece.  
+I’m particularly interested in **Software Engineering**, with a strong focus on **Backend Development** and system-level programming.
 
+I enjoy solving complex problems, designing clean architectures, and learning tools that improve productivity and code quality.
+
+📬 You can reach me at **panospxtz@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/panosxtz)
 ---
 
 ### 🛠️ Τεχνολογίες
@@ -124,11 +132,11 @@ Bonus: I’ve explored functional (Haskell), logic (Prolog), and assembly progra
 </p>
 
 ---
-### 📬 Get in touch
+### 📫 Contact
 
-- Email: [panospxtz@gmail.com](mailto:panospxtz@gmail.com)  
-- GitHub: [github.com/panosxtz](https://github.com/panosxtz)  
-- LinkedIn: [linkedin.com/in/panosxtz](https://www.linkedin.com/in/panosxtz)
+- **Email:** [panospxtz@gmail.com](mailto:panospxtz@gmail.com)  
+- **GitHub:** [github.com/panosxtz](https://github.com/panosxtz)  
+- **LinkedIn:** [linkedin.com/in/panosxtz](https://www.linkedin.com/in/panosxtz)
 
 ---
 
