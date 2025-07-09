@@ -19,14 +19,11 @@ Projects
 Greek++ Compiler  
 A compiler from scratch for a custom language. Includes lexer, parser, intermediate code and RISC-V output.
 
-Voice Assistant Bot  
-Local Raspberry Pi bot for study tracking, text-to-speech reminders, and Discord integration.
+Labyrinth Pathfinding (UCS & A*)
+Search algorithms applied on a grid-based maze. UCS guarantees optimal paths, A* improves efficiency with heuristics. Full Java implementation.
 
-Deadline Visualizer  
-Minimal LED-based system to visualize academic deadlines in real time.
-
-Automation Scripts  
-Bash and Python scripts for managing files, builds, and automation.
+Minimax Game AI
+Java-based logic game AI using the Minimax algorithm. Explores all possible move outcomes to select the best strategy. Designed for a Tic-Tac-Toe-like game.
 
 ---
 
