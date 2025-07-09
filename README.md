@@ -1,66 +1,49 @@
-<!--
-**panosxtz/panosxtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi, I'm Panos 👨‍💻</h1>
-<h3 align="center">Computer Science & Engineering Student · University of Ioannina</h3>
+<h1 align="center">Panos Paris Chatzopoulos</h1>
+<h3 align="center">Computer Science and Engineering · University of Ioannina</h3>
 
 <br>
 
 ---
 
-### 💼 Profile Summary
-**Backend Developer | Software Engineer**  | 
-**Java • Spring Boot • PostgreSQL • Docker** |   
-**Open to Remote Opportunities**
+Profile
 
-📍 Ioannina, Greece • 26 y.o. • Computer Science & Engineering student
-
----
-
-### 🧠 About Me
-
-• I’m currently studying **Computer Science and Engineering** at the **University of Ioannina** in Greece.  
-• I’m particularly interested in **Software Engineering**, with a strong focus on **Backend Development** and system-level programming.
-
-• I enjoy solving complex problems, designing clean architectures, and learning tools that improve productivity and code quality.
-
-📬 You can reach me at **panospxtz@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/panosxtz)
+Backend developer focused on system-level programming and software architecture.  
+Currently completing my studies in Computer Science and Engineering.  
+Keen on writing clean, maintainable code and building reliable backend systems.  
+Available for remote opportunities.
 
 ---
 
-### 🔧 What I Know
+Projects
 
-💻 Programming & Software Development  
-🧠 Problem Solving & Algorithmic Thinking  
-🔒 Systems Programming & OS Concepts  
-🌐 Web APIs & Databases  
-🛠️ Git, Linux, Docker, Clean Code  
-🧪 Testing, Debugging & Refactoring  
-🎯 Learning fast, thinking critically, building responsibly
+Greek++ Compiler  
+A compiler from scratch for a custom language. Includes lexer, parser, intermediate code and RISC-V output.
 
-Additionally I’ve explored functional (Haskell), logic (Prolog), and assembly programming (RISC-V) through academic projects.
+Voice Assistant Bot  
+Local Raspberry Pi bot for study tracking, text-to-speech reminders, and Discord integration.
+
+Deadline Visualizer  
+Minimal LED-based system to visualize academic deadlines in real time.
+
+Automation Scripts  
+Bash and Python scripts for managing files, builds, and automation.
+
+---
+
+Technologies
+
+`Java`    `Spring Boot`    `PostgreSQL`    `Docker`  
+`C`       `Python`         `C#`            `Git`  
+`Linux`   `Neovim`         `Haskell`       `Prolog`  
+`VHDL`    `Godot`
 
 ---
 
-### 🚀 Projects I’m proud of
+Contact
 
-- 🧠 **Greek++ Compiler** – Custom language compiler with full pipeline (parser → assembly)
-- 🤖 **Voice Assistant Bot** – Raspberry Pi bot for voice reminders, study tracking, and Discord integration
-- 💡 **Deadline Visualizer** – LED-based project that visualizes how close deadlines are
-- 🛠️ **System Automation Scripts** – Tools for backups, organization, builds, and monitoring
-
----
+panospxtz@gmail.com  
+github.com/panosxtz  
+linkedin.com/in/panosxtz
 
 ### 🛠️ Technologies & Tools
 
