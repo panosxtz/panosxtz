@@ -55,3 +55,66 @@ Here are some ideas to get you started:
 ### 💬 Quote
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
+>
+<h1 align="center">Panos Paris Chatzopoulos 👨‍💻</h1>
+<p align="center">
+  <b>Computer Science & Engineering Student · Backend Developer · Systems Thinker</b>
+</p>
+
+---
+
+### 👋 About Me
+
+I’m Panos, a final-year Computer Science & Engineering student at the University of Ioannina (Greece).  
+I love building things that *just work* — from backend services and automation tools to low-level systems.
+
+My academic background has given me a solid understanding of how computers work **from theory to code**:  
+algorithms, data structures, compilers, operating systems, networks, AI — I enjoy the big picture **and** the details.
+
+I work best when I’m deep in code, solving problems, debugging tricky behavior, or designing systems with clarity and purpose.
+
+---
+
+### 🔧 What I Know
+
+💻 Programming & Software Development  
+🧠 Problem Solving & Algorithmic Thinking  
+🔒 Systems Programming & OS Concepts  
+🌐 Web APIs & Databases  
+🛠️ Git, Linux, Docker, Clean Code  
+🧪 Testing, Debugging & Refactoring  
+🎯 Learning fast, thinking critically, building responsibly
+
+Languages I use most: `Java`, `C`, `Python`, `SQL`, `JavaScript`
+
+Bonus: I’ve explored functional (Haskell), logic (Prolog), and assembly programming (RISC-V) through academic projects.
+
+---
+
+### 🚀 Projects I’m proud of
+
+- 🧠 **Greek++ Compiler** – Custom language compiler with full pipeline (parser → assembly)
+- 🤖 **Voice Assistant Bot** – Raspberry Pi bot for voice reminders, study tracking, and Discord integration
+- 💡 **Deadline Visualizer** – LED-based project that visualizes how close deadlines are
+- 🛠️ **System Automation Scripts** – Tools for backups, organization, builds, and monitoring
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=panosxtz&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=panosxtz&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+### 📬 Get in touch
+
+- Email: [panospxtz@gmail.com](mailto:panospxtz@gmail.com)  
+- GitHub: [github.com/panosxtz](https://github.com/panosxtz)  
+- LinkedIn: [linkedin.com/in/panosxtz](https://www.linkedin.com/in/panosxtz)
+
+---
+
+> *"In the end, code is just a tool — understanding is what builds solutions."*
