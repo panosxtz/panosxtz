@@ -36,7 +36,7 @@ I enjoy solving complex problems, designing clean architectures, and learning to
 📬 You can reach me at **panospxtz@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/panosxtz)
 ---
 
-ttps://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
