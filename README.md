@@ -28,24 +28,12 @@ Here are some ideas to get you started:
 
 ### 🧠 About Me
 
-I’m currently studying **Computer Science and Engineering** at the **University of Ioannina** in Greece.  
-I’m particularly interested in **Software Engineering**, with a strong focus on **Backend Development** and system-level programming.
+- I’m currently studying **Computer Science and Engineering** at the **University of Ioannina** in Greece.  
+- I’m particularly interested in **Software Engineering**, with a strong focus on **Backend Development** and system-level programming.
 
-I enjoy solving complex problems, designing clean architectures, and learning tools that improve productivity and code quality.
+- I enjoy solving complex problems, designing clean architectures, and learning tools that improve productivity and code quality.
 
 📬 You can reach me at **panospxtz@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/panosxtz)
-
----
-
-### 👋 About Me
-
-I’m Panos, a final-year Computer Science & Engineering student at the University of Ioannina (Greece).  
-I love building things that *just work* — from backend services and automation tools to low-level systems.
-
-My academic background has given me a solid understanding of how computers work **from theory to code**:  
-algorithms, data structures, compilers, operating systems, networks, AI — I enjoy the big picture **and** the details.
-
-I work best when I’m deep in code, solving problems, debugging tricky behavior, or designing systems with clarity and purpose.
 
 ---
 
