@@ -126,13 +126,6 @@ Bonus: I’ve explored functional (Haskell), logic (Prolog), and assembly progra
 </p>
 
 ---
-
-<h1 align="center">Panos Paris Chatzopoulos 👨‍💻</h1>
-<p align="center">
-  <b>Computer Science & Engineering Student · Backend Developer · Systems Thinker</b>
-</p>
-
----
 ### 📬 Get in touch
 
 - Email: [panospxtz@gmail.com](mailto:panospxtz@gmail.com)  
