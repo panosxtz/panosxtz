@@ -60,8 +60,8 @@ Additionally I’ve explored functional (Haskell), logic (Prolog), and assembly 
 
 ---
 
-### 🛠️ Technologies & Tools<br>
-<br>
+### 🛠️ Technologies & Tools
+
 <p align="left">
   
   <!-- Languages -->
