@@ -96,8 +96,6 @@ Bonus: I’ve explored functional (Haskell), logic (Prolog), and assembly progra
 
 ---
 
----
-
 ### 🛠️ Technologies & Tools
 
 <p align="left">
@@ -118,7 +116,11 @@ Bonus: I’ve explored functional (Haskell), logic (Prolog), and assembly progra
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/Neovim
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim"/>
+
+</p>
+
+---
 
 ### 📈 GitHub Stats
 
@@ -126,11 +128,6 @@ Bonus: I’ve explored functional (Haskell), logic (Prolog), and assembly progra
   <img src="https://github-readme-stats.vercel.app/api?username=panosxtz&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=panosxtz&theme=tokyonight" width="48%"/>
 </p>
-
----
-
----
-
 ### 📬 Get in touch
 
 - Email: [panospxtz@gmail.com](mailto:panospxtz@gmail.com)  
