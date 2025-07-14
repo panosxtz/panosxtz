@@ -48,7 +48,6 @@ Technologies
 Contact
 
 <p>
-  <a href="https://panosxtz.com">WebSite</a><br>
   <a href="mailto:panospxtz@gmail.com">Email</a><br>
   <a href="https://www.linkedin.com/in/panosxtz">LinkedIn</a>
 </p>
