@@ -4,10 +4,10 @@
 
 ---
 
-## Backend developer focused on system-level programming and software architecture.  
-## Currently completing my studies in Computer Science and Engineering.  
-## Keen on writing clean, maintainable code and building reliable backend systems.  
-## Available for remote opportunities.
+<h2 align="left">Backend developer focused on system-level programming and software architecture.  
+Currently completing my studies in Computer Science and Engineering.  
+Keen on writing clean, maintainable code and building reliable backend systems.  
+Available for remote opportunities.</h2>
 
 ---
 
