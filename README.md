@@ -1,4 +1,4 @@
-<h1 align="center">Panos Paris Chatzopoulos</h1><p align="center">
+<h1 align="center">Panos P. Chatzopoulos</h1><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=100&center=true&vCenter=true&width=600&lines=Computer+Science+and+Engineering;University+of+Ioannina;Backend+Developer;Clean+Code+Enthusiast;Always+Learning+Something+New" alt="Typing animation" />
 </p>
 
