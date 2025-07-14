@@ -13,26 +13,26 @@ Available for remote opportunities.
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🔧 [Greek++ Compiler](https://github.com/panosxtz/greekplusplus-compiler)
+###  [Greek++ Compiler](https://github.com/panosxtz/greekplusplus-compiler)
 A compiler from scratch for a custom language. Includes a lexer, parser, intermediate code generation (quads), symbol table, and RISC-V assembly output.
 
-### 🧭 [Labyrinth Pathfinding (UCS & A*)](https://github.com/panosxtz/labyrinth-search)
+###  [Labyrinth Pathfinding (UCS & A*)](https://github.com/panosxtz/labyrinth-search)
 Search algorithms implemented on a grid-based maze using Java.  
 - **UCS (Uniform Cost Search)** ensures optimal paths.  
 - **A\*** improves efficiency with heuristics.
 
-### ♟️ [Minimax Game AI](https://github.com/panosxtz/minimax-game)
+###  [Minimax Game AI](https://github.com/panosxtz/minimax-game)
 A logic-based game AI in Java using the **Minimax algorithm**.  
 Explores possible move outcomes to choose the best strategy.  
 Designed for a Tic-Tac-Toe–like game with optimal move selection.
 
-### 🎯 [Code Cracker](https://github.com/panosxtz/code-cracker)
+###  [Code Cracker](https://github.com/panosxtz/code-cracker)
 A puzzle-solving game written in Python.  
 Implements logic for code guessing and clue evaluation.
 
-### 🛳️ [Battleship Game (CLI)](https://github.com/panosxtz/battleship-java)
+###  [Battleship Game (CLI)](https://github.com/panosxtz/battleship-java)
 A Java console-based Battleship game with human vs computer or computer vs computer play.  
 Includes strategies like random and exploration-based targeting.
 
