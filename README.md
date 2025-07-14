@@ -48,8 +48,9 @@ Technologies
 Contact
 
 <p>
-  Ioannina  
-  [panosxtz.com](https://panosxtz.com)  
+  Ioannina
+  <br></br>
+  <a href="https://panosxtz.com">WebSite</a>  
   <a href="mailto:panospxtz@gmail.com">Email</a><br>
   <a href="https://www.linkedin.com/in/panosxtz">LinkedIn</a>
 </p>
