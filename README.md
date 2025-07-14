@@ -39,7 +39,6 @@ Contact
 
 <p>
   <a href="mailto:panospxtz@gmail.com">Email</a><br>
-  <a href="https://github.com/panosxtz">GitHub</a><br>
   <a href="https://www.linkedin.com/in/panosxtz">LinkedIn</a>
 </p>
 
