@@ -45,12 +45,4 @@ Contact
 
 ---
 
-> *"In the end, code is just a tool — understanding is what builds solutions."*
->
-> <h3 class="center">Languages</h3>
-<div class="tags center">
-  <span class="tag">Java</span>
-  <span class="tag">C/C++</span>
-  <span class="tag">Python</span>
-  <span class="tag">JavaScript</span>
-</div>
+> *"In the end, code is just a tool — understanding is what builds solutions."
